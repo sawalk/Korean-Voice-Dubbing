@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>! Korean Voice Dubbing</name>
+    <directory>! korean voice dubbing</directory>
+    <id>3360615255</id>
+    <description>[img]https://i.imgur.com/qNIBKvT.png[/img]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3124459064]　　　　 　　　　 　　　　　 　　한국어 번역+[/url]와 호환됩니다.
+　　　 　　　　　 　　　　성우진에 대한 비방은 삭제될 수 있습니다.
+
+더빙 음성과 공식 자막은 일치하지 않습니다. 자막 수정이 불가능해 모드 적용 시 기존 자막을 표시하지 않도록 제작되었습니다. 본 모드보다 우선순위가 높은 모드 중 cutscenes.xml을 사용하는 모드가 있다면 기존 자막이 다시 표시됩니다.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Sound Effects"/>
+</metadata>
