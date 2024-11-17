@@ -34,8 +34,8 @@ local function renderMessage3()
       renderMessageY = 240
       renderMessageY3 = 250
     end
-    font:DrawStringScaledUTF8("보스명 교체에 대한 설문조사가 진행 중입니다! https://gall.dcinside.com/m/tboi/128736",10,renderMessageY,renderMessageWidth,renderMessageWidth,KColor(1,1,1,1),0,true)
-    font:DrawStringScaledUTF8("이 메시지는 11월 18일까지 게임 시작 후 3초간 표시됩니다.",10,renderMessageY3,renderMessageWidth,renderMessageWidth,KColor(1,1,1,1),0,true)
+    font:DrawStringScaledUTF8("보스명 교체에 대한 2차 설문이 진행 중입니다! https://gall.dcinside.com/m/tboi/129340",10,renderMessageY,renderMessageWidth,renderMessageWidth,KColor(1,1,1,1),0,true)
+    font:DrawStringScaledUTF8("이 메시지는 11월 25일까지 게임 시작 후 3초간 표시됩니다.",10,renderMessageY3,renderMessageWidth,renderMessageWidth,KColor(1,1,1,1),0,true)
   end
 end
 
