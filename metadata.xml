@@ -3,16 +3,14 @@
     <name>! Korean Voice Dubbing</name>
     <directory>! korean voice dubbing</directory>
     <id>3360615255</id>
-    <description>[img]https://i.imgur.com/qNIBKvT.png[/img]
-　　　　 　　트레일러의 디자인은 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3421378018]Micael Muñoz[/url]의 것이며, 사용 허락을 받았습니다.
-　　　　　　　 　　　　성우진에 대한 비방 댓글은 삭제될 수 있습니다.
+    <description>애프터버스가 한국어를 지원할 당시 [url=https://www.instagram.com/youknow4pril]KBS 34기 윤호 성우[/url]의 더빙으로 더 높은 현지화 품질을 선보였던 반면, 리펜턴스에선 더빙이 돌연 삭제되었습니다. [b]한국어 더빙 모드는 삭제되었던 한국어 더빙을 다시 되살리고, 더빙되지 못한 엔딩 21과 최종 엔딩을[/b] [url=https://www.youtube.com/@칩스]유튜브 더빙 팀 Chips[/url]의 [b]새 더빙으로 선보이는 모드입니다.[/b]
 
-애프터버스가 한국어를 지원할 당시 [url=https://x.com/youknow4pril]KBS 34기 윤호 성우[/url]의 더빙으로 더 높은 현지화 품질을 선보였던 반면, 리펜턴스에선 더빙이 돌연 삭제되었습니다. [b]한국어 더빙 모드는 삭제되었던 한국어 더빙을 다시 되살리고, 더빙되지 못한 엔딩 21과 최종 엔딩을[/b] [url=https://www.youtube.com/@칩스]유튜브 더빙 팀 Chips[/url]의 [b]새 더빙으로 선보이는 모드입니다.[/b]
+(리펜턴스) 더빙 음성과 공식 자막은 일치하지 않습니다. 자막 수정이 불가능해 모드 적용 시 기존 자막을 표시하지 않도록 제작되었습니다. 본 모드보다 우선순위가 높은 모드 중 cutscenes.xml을 사용하는 모드가 있다면 기존 자막이 다시 표시됩니다.
 
-더빙 음성과 공식 자막은 일치하지 않습니다. 자막 수정이 불가능해 모드 적용 시 기존 자막을 표시하지 않도록 제작되었습니다. 본 모드보다 우선순위가 높은 모드 중 cutscenes.xml을 사용하는 모드가 있다면 기존 자막이 다시 표시됩니다.
+(리펜턴스+) [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3371064337]한글패치[/url]가 활성화되지 않았다면 자막은 표시되지 않습니다.
 
 본 모드보다 우선순위가 낮은 모드 중 cutscenes.xml을 사용하는 모드가 있다면 해당 모드가 불완전하게 작동할 수 있습니다.</description>
-    <version>1.9</version>
+    <version>1.11</version>
     <visibility>Public</visibility>
     <tag id="Sound Effects"/>
     <tag id="Music"/>
